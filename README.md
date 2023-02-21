@@ -1,1 +1,1 @@
-# lemoncode-bootcamp-javascript-continuo-modulo-2
+Prácticas del bootcamp javascript continuo lemoncode - Módulo 2 - Variables y tipos de datos.
