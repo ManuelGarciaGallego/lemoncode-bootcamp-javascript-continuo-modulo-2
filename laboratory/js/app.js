@@ -51,9 +51,8 @@ var stars = {
     "<span>&#9733;</span><span>&#9733;</span><span>&#9733;</span><span>&#9733;</span><span>&#9733;</span>",
 };
 
-
-var rating = prompt("¿Cuántas estrellas del 1 al 5?");
+var rating = prompt("¿Con cuántas estrellas valora el hotel? Complete con un número del 1 al 5.");
 document.getElementById("rating").innerHTML = stars[rating];
 
-var anonymous = confirm("¿Quiere que la reseña sea anónima?");
+var anonymous = confirm("¿Quiere que su reseña sea anónima?");
 document.getElementById("anonymous").checked = anonymous;
